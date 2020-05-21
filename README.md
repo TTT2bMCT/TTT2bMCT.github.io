@@ -1,2 +1,2 @@
 # TTT2bMCT.github.io
-Train the Trainer (TTT), to be MCT (Motivated and Competent Trainer)
+Train the Trainer (TTT), to be an MCT (Motivated and Competent Trainer)
